@@ -1,3 +1,4 @@
-# js-clicker-game
+# js-clicker-game-2
 
-Simple clicking game, testing out MVC
+Simple clicking game (MVC).
+OBLIG
